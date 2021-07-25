@@ -175,7 +175,7 @@ const killableBosses: KillableMonster[] = [
 		},
 		disallowedAttackStyles: [SkillsEnum.Magic, SkillsEnum.Ranged],
 		attackStylesUsed: [GearStat.AttackMagic],
-		attackStyleToUse: GearStat.AttackCrush
+		attackStyleToUse: GearStat.AttackSlash
 	},
 	{
 		id: Monsters.CorporealBeast.id,
